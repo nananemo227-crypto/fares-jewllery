@@ -7,4 +7,4 @@ Disallow: /private/
 Disallow: /tmp/
 
 # Sitemap location
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://fares-jewllery.vercel.app/sitemap.xml
