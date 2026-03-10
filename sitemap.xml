@@ -7,7 +7,7 @@
 
     <!-- Home -->
     <url>
-        <loc>https://www.example.com/</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -15,7 +15,7 @@
 
     <!-- Shop -->
     <url>
-        <loc>https://www.example.com/shop.html</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//shop.html</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -23,7 +23,7 @@
 
     <!-- Gold Collection -->
     <url>
-        <loc>https://www.example.com/gold-collection.html</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//gold-collection.html</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -31,7 +31,7 @@
 
     <!-- Gold Diamond Collection -->
     <url>
-        <loc>https://www.example.com/gold-diamond.html</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//gold-diamond.html</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -39,7 +39,7 @@
 
     <!-- About -->
     <url>
-        <loc>https://www.example.com/about.html</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//about.html</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -47,7 +47,7 @@
 
     <!-- Contact -->
     <url>
-        <loc>https://www.example.com/contact.html</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//contact.html</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -55,7 +55,7 @@
 
     <!-- Privacy Policy -->
     <url>
-        <loc>https://www.example.com/privacy.html</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//privacy.html</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
@@ -63,7 +63,7 @@
 
     <!-- Terms & Conditions -->
     <url>
-        <loc>https://www.example.com/terms.html</loc>
+        <loc>https:/https://fares-jewllery.vercel.app//terms.html</loc>
         <lastmod>2026-03-03</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
